@@ -22,9 +22,9 @@
 
 - 🎓 Currently in my **5th semester of B.Tech (CSE)**, actively preparing for campus placements
 - 💻 Focused on **Full-Stack Development** and strengthening my **Data Structures & Algorithms**
-- 🌱 Currently learning: *[e.g., Spring Boot / React / System Design basics]*
-- 📫 Reach me at: **your.email@example.com**
-- ⚡ Fun fact: *[optional — one line, keep it light]*
+- 🌱 Currently learning: *Programming abstractions using Java , Artifical Intelligence and machine learning, Algorithm Design and implementation, System Design*
+- 📫 Reach me at: **nishank4643k@gmail.com**
+- ⚡ Fun fact: *Good at maths problem solving*
 
 ---
 
