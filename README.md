@@ -2,13 +2,13 @@
 <h3 align="center">B.Tech CSE Student | Aspiring Software Developer | Open to Opportunities</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/nishank-saharan-4a8564338/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:nishank4643k@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/YOUR-LEETCODE-ID">
+  <a href="https://leetcode.com/u/Nishank_Saharan/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="YOUR-RESUME-LINK">
